@@ -147,7 +147,7 @@
               }
             } catch (_0x3e3f08) {}
 
-            await new Promise(_0x36ccc0 => setTimeout(_0x36ccc0, 500));
+            await new Promise(_0x49f3d4 => setTimeout(_0x49f3d4, 0));
 
             const _0x2b7697 = document.getElementById("rama-check-text");
             if (_0x566f72) {
@@ -156,7 +156,7 @@
               _0x2b7697.innerHTML = "<span style='color:#ff4444;'>No Update Available!</span>";
             }
 
-            await new Promise(_0x36ccc0 => setTimeout(_0x36ccc0, 500));
+            await new Promise(_0x36ccc0 => setTimeout(_0x36ccc0, 0));
             _0x4761a5.remove();
   // CREDIT: @RAMA_MODZ
   // CREDIT: @RAMA_MODZ
@@ -180,7 +180,8 @@
                 display:flex; align-items:center; justify-content:center;
               `;
 
-              const _0x4779a6 = 3;              _0x384096.innerHTML = `
+              const _0x4779a6 = 3;
+              _0x384096.innerHTML = `
                 <div style="text-align:center;">
                   <div style="position:relative; width:220px; height:220px; margin:0 auto;">
                     <svg width="220" height="220" style="transform:rotate(-90deg);">
@@ -219,7 +220,7 @@
                 }
               }, 1000);
             }
-          }, 800);
+          }, 0);
 
         } else {
           _0x55c81e.innerHTML = "<span style='color:#ff4444;'>INVALID LICENSE KEY!</span>";
