@@ -180,7 +180,7 @@
                 display:flex; align-items:center; justify-content:center;
               `;
 
-              const _0x4779a6 = Math.floor(Math.random() * 4) + 22;
+              const _0x4779a6 = 3;
               _0x384096.innerHTML = `
                 <div style="text-align:center;">
                   <div style="position:relative; width:220px; height:220px; margin:0 auto;">
