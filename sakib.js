@@ -116,7 +116,7 @@
             // CHECK FOR UPDATE
             let _0x566f72 = false;
             try {
-              const _0x33201b = await fetch("https://xtremex.gamer.gd/");
+              const _0x33201b = await fetch("https://XTREMEx/");
               const _0x5a22f2 = await _0x33201b.text();
               if (_0x5a22f2.includes("GitHub Updated")) {
                 _0x566f72 = true;
